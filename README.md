@@ -1,2 +1,2 @@
 # test-repo
-a test repository
+This is an update test readme
